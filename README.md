@@ -44,12 +44,6 @@ bookstore-management/
  │   └── application.properties
  └── pom.xml
 
-⚙️ Setup & Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/bookstore-management.git
-cd bookstore-management
 
 
 Build & run the application:
