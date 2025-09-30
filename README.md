@@ -31,22 +31,7 @@ Jakarta Validation
 
 Lombok
 
-📂 Project Structure
-bookstore-management/
- ├── src/main/java/com/example/bookstore
- │   ├── BookstoreApplication.java
- │   ├── controller/     # REST Controllers
- │   ├── entity/         # JPA Entities
- │   ├── repository/     # JPA Repositories
- │   ├── service/        # Business Logic
- │   └── exception/      # Global Error Handling
- ├── src/main/resources/
- │   └── application.properties
- └── pom.xml
-
-
-
-Build & run the application:
+run the application:
 
 mvn spring-boot:run
 
