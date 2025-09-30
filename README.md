@@ -31,10 +31,9 @@ Jakarta Validation
 
 Lombok
 
-run the application:
+Run the application:
 
 mvn spring-boot:run
-
 
 Access the app:
 
